@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-🚀 Welcome to my GitHub profile! **I'm Sahan Sachintha**, a ![dynamic full stack software engineer](), I blend innovation and vision to create impactful solutions. With a burning passion for coding and problem-solving, I aim to revolutionize the tech world one project at a time.
+🚀 Welcome to my GitHub profile! **I'm Sahan Sachintha**, a [dynamic full stack software engineer](#), I blend innovation and vision to create impactful solutions. With a burning passion for coding and problem-solving, I aim to revolutionize the tech world one project at a time.
 
 ### Full Stack Software Engineer
 
