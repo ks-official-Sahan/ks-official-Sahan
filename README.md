@@ -4,7 +4,7 @@
 
 ### Full Stack Software Engineer
 
-Driven CEO at Ewision(Pvt) Ltd, leading an innovative, visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. We are committed to pioneering global advancements. Helding partnerships with Quantum Cod (Pvt) Ltd and ImaginecoreX (Pvt) Ltd. to lead into a successful journey.
+Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an innovative, visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. We are committed to pioneering global advancements. Holding partnerships with Quantum Cod (Pvt) Ltd and ImaginecoreX (Pvt) Ltd. to lead into a successful journey.
 
 # 💻 Tech Stack:
 
@@ -13,23 +13,29 @@ Driven CEO at Ewision(Pvt) Ltd, leading an innovative, visionary team. Full-stac
 ### GitHub Stats:
 
 - **Username:** ks-official-Sahan
-- **Organization:** Ewision (Pvt) Ltd.
+- **Organization:** Evision IT (Pvt) Ltd. & ImagineCoreX (Pvt) Ltd. & Quantum Cod (Pvt) Ltd.
 
 ### Skills:
 
 - **Full Stack Development:** MERN, NEXT.js, Java
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB, MySQL
+- **Backend:** Node.js, Express, MongoDB, MySQL, NestJS, Prisma
 - **DevOps:** Docker, Kubernetes
 - **Version Control:** Git
+- **CI/CD:** Vercel
 
 ### Connect with Me:
 
 🌐 Let's connect and collaborate:
 
-- LinkedIn: [Sahan Sachintha]()
+- Email: [ks.official.sahan@gmail.com](mailto:ks.official.sahan@gmail.com?cc=kingsahan380h@gmail.com?bcc=contact@sahansachintha.com)
+- Whatsapp: [Sahan](https://wa.me/+94768701148)
+- Telegram: [Sahan](https://t.me/King_Sahan)
+- LinkedIn: [Sahan Sachintha](https://www.linkedin.com/in/sahan-sachintha/)
 - Website:
-  [sahansachintha.com](sahansachintha.com)
-  [Ewision](ewision.xyz)
+  [sahansachintha.com](https://sahansachintha.com)
+  [Evision IT](https://evisionit.lk)
+  [IMCROX](https://imcrox.com)
+  [ImagineCoreX](https://company.imcrox.com)
 
 Let's connect and build something amazing together! 🚀
