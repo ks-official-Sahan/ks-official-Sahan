@@ -18,12 +18,12 @@ Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an
 
 ### Skills:
 
-- **Full Stack Development:** MERN, NEXT.js, Java
+- **Full Stack Development:** MERN, NEXT.js, Java, Python, C#
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, MongoDB, MySQL, NestJS, Prisma
+- **Backend:** Node.js, Express, MongoDB, MySQL, NestJS, Prisma, Django, .NET
 - **DevOps:** Docker, Kubernetes
 - **Version Control:** Git
-- **CI/CD:** Vercel
+- **CI/CD:** Vercel, Github Actions
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-official-sahan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
