@@ -14,7 +14,7 @@ Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an
 ### GitHub Stats:
 
 - **Username:** ks-official-Sahan
-- **Organization:** Evision IT (Pvt) Ltd. & ImagineCoreX (Pvt) Ltd. & Quantum Cod (Pvt) Ltd.
+- **Organization:** Evision IT (Pvt) Ltd. & ImagineCoreX (Pvt) Ltd. & Datalake Creative (Pvt) Ltd.
 
 ### Skills:
 
@@ -37,9 +37,13 @@ Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an
 - LinkedIn: [Sahan Sachintha](https://www.linkedin.com/in/sahan-sachintha/)
 - Website:
   [sahansachintha.com](https://sahansachintha.com)
-  [Evision IT](https://evisionit.lk)
+  [Evision IT](https://evision-it.com)
+  [Valorem Real Estate](https://valoremrealestate.ae)
+  [DatalakeCreative](https://datalakecreative.com)
+  [LakeViewVilla](https://lakeviewvillatangalle.com)
   [IMCROX](https://imcrox.com)
   [ImagineCoreX](https://company.imcrox.com)
+  [DistressPropertiesDubai](https://distresspropertiesindubai.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahan-sachintha) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Sahan.sn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SahanSubasingha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@King_Sahan) 
 
