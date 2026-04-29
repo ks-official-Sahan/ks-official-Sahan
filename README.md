@@ -4,7 +4,7 @@
 
 ### Full Stack Software Engineer
 
-Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an innovative, visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. We are committed to pioneering global advancements. Holding partnerships with Quantum Cod (Pvt) Ltd and ImaginecoreX (Pvt) Ltd. to lead into a successful journey.
+Driven CEO at Evision IT (Pvt) Ltd and CPO at ImagineCoreX (Pvt) Ltd, leading an innovative, visionary team. Full-stack software engineer passionate about tech, from IT to robotics, space, and aviation. We are committed to pioneering global advancements. Holding partnerships with ImaginecoreX (Pvt) Ltd. to lead into a successful journey.
 
 # 💻 Tech Stack:
 
